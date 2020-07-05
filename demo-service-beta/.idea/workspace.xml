@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="505c5343-33a7-4c25-893c-e9af70d15df2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo-service-alpha/src/frontend/src/components/user/UserBeta.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/de/novatec/studentservice/student/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/de/novatec/studentservice/student/Student.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/de/novatec/studentservice/student/StudentController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/de/novatec/studentservice/student/StudentController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/de/novatec/studentservice/student/StudentEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/de/novatec/studentservice/student/StudentEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/de/novatec/studentservice/student/StudentRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/de/novatec/studentservice/student/StudentRepository.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="studentservice" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="studentservice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="studentservice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="studentservice" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c2u02YlD5Xze0NElpTSD6JY7TS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle clean build" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StudentserviceApplication">
+    <configuration name="demo-service-beta [clean build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="build.gradle.kts" type="KotlinStandaloneScriptRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="studentservice" />
+      <option name="filePath" value="$PROJECT_DIR$/build.gradle.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" value="$PROJECT_DIR$/build.gradle.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start-mongoDB.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/start-mongoDB.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stop-mongoDB.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/stop-mongoDB.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StudentserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.novatec.studentservice.StudentserviceApplication" />
+      <option name="ACTIVE_PROFILES" value="beta" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="servicebeta.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.novatec.studentservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.novatec.studentservice.StudentserviceApplication" />
+      <option name="ACTIVE_PROFILES" value="ldev,beta" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="servicebeta.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.novatec.studentservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.novatec.studentservice.StudentserviceApplication" />
+      <option name="ACTIVE_PROFILES" value="beta" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo-service-beta.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.novatec.studentservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.novatec.studentservice.StudentserviceApplication" />
+      <option name="ACTIVE_PROFILES" value="beta" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.demo-service-beta [clean build]" />
+      <item itemvalue="Kotlin script.build.gradle.kts" />
+      <item itemvalue="Shell Script.start-mongoDB.sh" />
+      <item itemvalue="Shell Script.stop-mongoDB.sh" />
+      <item itemvalue="Spring Boot.StudentserviceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StudentserviceApplication" />
+        <item itemvalue="Shell Script.start-mongoDB.sh" />
+        <item itemvalue="Shell Script.stop-mongoDB.sh" />
+        <item itemvalue="Spring Boot.StudentserviceApplication" />
+        <item itemvalue="Spring Boot.StudentserviceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="505c5343-33a7-4c25-893c-e9af70d15df2" name="Default Changelist" comment="" />
+      <created>1589738782778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589738782778</updated>
+      <workItem from="1589738785695" duration="589000" />
+      <workItem from="1589785377275" duration="1622000" />
+      <workItem from="1590241986834" duration="2031000" />
+      <workItem from="1590244027967" duration="5769000" />
+      <workItem from="1590344925325" duration="94000" />
+      <workItem from="1590345060778" duration="788000" />
+      <workItem from="1590389934190" duration="1784000" />
+      <workItem from="1593956897883" duration="2485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2707" y="311" width="1024" height="843" key="#Project_Structure" timestamp="1590344909621">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2707" y="311" width="1024" height="843" key="#Project_Structure/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590344909621" />
+    <state x="2815" y="305" width="829" height="843" key="#StudentserviceApplication" timestamp="1590390136874">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2815" y="305" width="829" height="843" key="#StudentserviceApplication/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590390136874" />
+    <state x="2682" y="392" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590390201596">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2682" y="392" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590390201596" />
+    <state x="3007" y="492" width="424" height="482" key="FileChooserDialogImpl" timestamp="1589785391581">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3007" y="492" width="424" height="482" key="FileChooserDialogImpl/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1589785391581" />
+    <state width="1702" height="867" key="GridCell.Tab.0.bottom" timestamp="1590398480678">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1702" height="867" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590398480678" />
+    <state width="1702" height="867" key="GridCell.Tab.0.center" timestamp="1590398480678">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1702" height="867" key="GridCell.Tab.0.center/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590398480678" />
+    <state width="1702" height="867" key="GridCell.Tab.0.left" timestamp="1590398480678">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1702" height="867" key="GridCell.Tab.0.left/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590398480678" />
+    <state width="1702" height="867" key="GridCell.Tab.0.right" timestamp="1590398480678">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1702" height="867" key="GridCell.Tab.0.right/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590398480678" />
+    <state width="1702" height="867" key="GridCell.Tab.1.bottom" timestamp="1590398480679">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1702" height="867" key="GridCell.Tab.1.bottom/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590398480679" />
+    <state width="1702" height="867" key="GridCell.Tab.1.center" timestamp="1590398480679">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1702" height="867" key="GridCell.Tab.1.center/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590398480679" />
+    <state width="1702" height="867" key="GridCell.Tab.1.left" timestamp="1590398480679">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1702" height="867" key="GridCell.Tab.1.left/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590398480679" />
+    <state width="1702" height="867" key="GridCell.Tab.1.right" timestamp="1590398480679">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1702" height="867" key="GridCell.Tab.1.right/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590398480679" />
+    <state x="2705" y="369" key="SettingsEditor" timestamp="1590243959374">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2705" y="369" key="SettingsEditor/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590243959374" />
+    <state x="2915" y="444" width="813" height="580" key="find.popup" timestamp="1590243213207">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2915" y="444" width="813" height="580" key="find.popup/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590243213207" />
+    <state x="2888" y="344" width="672" height="678" key="run.anything.popup" timestamp="1590242864520">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2888" y="344" width="672" height="678" key="run.anything.popup/1920.0.2560.1440/0.28.1920.1052@1920.0.2560.1440" timestamp="1590242864520" />
+  </component>
+</project>
